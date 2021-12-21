@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com programação front-end
 - 🌱 Estudando React Js e Typescript
-- 😄 Pronouns: ele/dele
+- 😄 Engenheiro de materiais em transição de carreira
 - ⚡ Fun fact: eu me apaixonei, por programação, quando entendi pela primeira vez: "Existem 10 tipos de pessoas no mundo: as que entendem binário e as que não entendem."
 
 <div align="center">
