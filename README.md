@@ -1,8 +1,8 @@
 ### Falaa pessoal! Eu sou o Lucas Neris 👋
 
-- 🔭 Atualmente trabalho com programação front-end
-- 🌱 Estudando React Js e Typescript
-- 😄 Engenheiro de materiais em transição de carreira
+- 🔭 Atualmente trabalho como QA Engineer | Intern
+- 🌱 Estudando React Js, JavaScript, NodeJs e Cypress
+- 😄 Sou estudante de engenharia da computação. P.s: é a minha segunda engenharia. Doido? Não! Motivado heheheh
 - ⚡ Fun fact: eu me apaixonei, por programação, quando entendi pela primeira vez: "Existem 10 tipos de pessoas no mundo: as que entendem binário e as que não entendem."
 
 <div align="center">
