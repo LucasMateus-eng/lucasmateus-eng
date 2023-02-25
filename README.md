@@ -1,7 +1,7 @@
 ### Falaa pessoal! Eu sou o Lucas Neris 👋
 
-- 🔭 Atualmente trabalho como Desenvolvedor Back-end | Intern
-- ✨ A minha stack de trabalho é Go, echo, gin, PostgreSQL, pg-go, protobuf, gRPC e Firebase
+- 🔭 Atualmente trabalho como Desenvolvedor Back-end
+- ✨ A minha stack é Go, echo, gin, PostgreSQL, pg-go, protobuf, gRPC e Firebase
 - 🌱 Tenho interesse por React Js, JavaScript, NodeJs e Cypress
 - 😄 Sou estudante de engenharia da computação. P.s: é a minha segunda engenharia. Doido? Não! Motivado heheheh
 - ⚡ Fun fact: eu me apaixonei, por programação, quando entendi pela primeira vez: "Existem 10 tipos de pessoas no mundo: as que entendem binário e as que não entendem."
